@@ -1,5 +1,7 @@
 # Welkom!
 
+Edit van Tom
+
 In het VO is er veel aandacht voor ontwikkeling van conceptuele kennis. Die kennis wordt met name ontwikkeld door middel van klassikale instructie: de docent legt de stof uit waarna de leerlingen sommen oefenen. Door een vol programma, maar ook onbekendheid met de didactiek en gering aantal goede voorbeelden, zijn practica, ontwerpopdrachten en computer gebruik (waaronder data-analyse en simulaties) geminimaliseerd. Dit terwijl leerlingen juist deze activiteiten als leuk en motiverend ervaren en er op bètavervolgopleidingen juist veel aandacht voor deze onderwijselementen is. In het MBO/HBO voeren o.a. ontwerpen en praktische opdrachten de boventoon. In het WO is er veel aandacht voor (wetenschappelijk) experimenten, daarbij gebruik makend van de diverse mogelijkheden van de computer. 
 
 Dit project beoogt het plezier in actief leren terug te brengen, de leeropbrengst van de activiteiten te vergroten en de kloof tussen het secundair en tertiair onderwijs te verkleinen. Dit doen we door:
